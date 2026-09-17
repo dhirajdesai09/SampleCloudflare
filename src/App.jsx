@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      Hello Centera.Tech
+      Hello World
     </div>
   )
 }
